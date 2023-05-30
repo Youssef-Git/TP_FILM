@@ -1,0 +1,53 @@
+.movie {
+    margin-top: 5px;
+    justify-content: left;
+    text-align: center;
+}
+
+.resume {
+    font-style: italic;
+    font-size: 65%;
+}
+
+.act {
+    font-style: italic;
+    font-size: 65%;
+    color: darkslateblue;
+}
+
+h2 {
+    color: darkgoldenrod;
+    font-style: italic;
+}
+
+.crit {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.blue_card {
+    background-color: #538397;
+    color: white;
+    padding: 50px;
+    margin: 5px;
+}
+
+.white_card {
+    background-color: white;
+    color: black;
+    padding: 50px;
+    margin: 5px;
+}
+
+ul {
+    list-style-type: none;
+
+}
+
+
+body{
+    background-color: lightgrey;
+}
+
+
